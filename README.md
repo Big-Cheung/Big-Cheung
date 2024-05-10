@@ -5,11 +5,11 @@ I am a fourth year computer science student at UCLA and a software engineering h
 >Hover over the images to read a short description, and click to visit if they have a link
 
 
-### Projects by date
+## Projects by date
 <details>
   
   <summary>
-    <h2>UCLA</h2>
+    <h3>UCLA</h2>
   </summary>
 
   <div align="center">
@@ -28,12 +28,12 @@ I am a fourth year computer science student at UCLA and a software engineering h
 </details>
 
 <details>
-  <summary><h2>High School</h2></summary>
+  <summary><h3>High School</h2></summary>
   My high school projects were mainly projects completed for a game development course at Harvard Summer School and my senior project.
 </details>
 
 <details>
-  <summary><h2>Before High School</h2></summary>
+  <summary><h3>Before High School</h2></summary>
   Most of my Pre-High school projects were done in Lua for a game engine named Love2D as well as for a mock-UNIX shell available as a mod for minecraft named ComputerCraft. These screenshots are from ComputerCraft, which has an extremely barebones graphical display (51 x 19 ASCII characters) and an input library. It supports 4 bit color. Hover over each to read a short description.
   <p align="center" >
       <img src="rain.gif" width=400 title="Rain Screensaver (2015)" />
