@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hi, I am Evan (Big) Cheung 🐤
+I am a fourth year computer science student at UCLA and a software engineering hobbyist. I have worked as a Full-Stack Web Developer for 3 years, and first learned coding when I taught myself to make video games at the age of 9. I have a passion for general problem solving, leadership, and anything related to education!
 
-<!--
-**Big-Cheung/Big-Cheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>[!NOTE]
+>Hover over the images to read a short description, and click to visit if they have a link
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects by date
+<details>
+  
+  <summary>
+    <h2>UCLA</h2>
+  </summary>
+
+  <div align="center">
+  
+  [<img src="balhalla.jpg" width=600 align="center" title="Multiplayer In-Browser Dodgeball Game (2024)" />](https://balhalla.bigcheung.com)
+    
+  </div>
+  
+  
+  <div align="center">
+  
+  [<img src="globalmap.png" width=600 align="center" title="UCLA Global Map (2022)" />](https://www.global.ucla.edu/interactivemap)
+
+  </div>
+
+</details>
+
+<details>
+  <summary><h2>High School</h2></summary>
+  My high school projects were mainly projects completed for a game development course at Harvard Summer School and my senior project.
+</details>
+
+<details>
+  <summary><h2>Before High School</h2></summary>
+  Most of my Pre-High school projects were done in Lua for a game engine named Love2D as well as for a mock-UNIX shell available as a mod for minecraft named ComputerCraft. These screenshots are from ComputerCraft, which has an extremely barebones graphical display (51 x 19 ASCII characters) and an input library. It supports 4 bit color. Hover over each to read a short description.
+  <p align="center" >
+      <img src="rain.gif" width=400 title="Rain Screensaver (2015)" />
+      <img src="christmas.gif" width=400 hspace="15" title="Christmas Screensaver (2015)" />
+  </p>
+  <p align="center">
+    <img src="matrix.gif" width=400 title="Matrix Screensaver (2014)"/>
+    <img src="guide.gif" width=400 hspace="15" title="User Interface Builder (GUI-IDE) (2014)" />
+  </p>
+</details>
