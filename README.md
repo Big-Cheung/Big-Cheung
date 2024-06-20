@@ -1,5 +1,5 @@
 # Hi, I am Evan (Big) Cheung 🐤
-I am a fourth year computer science student at UCLA and a software engineering hobbyist. I have worked as a Full-Stack Web Developer for 3 years, and first learned coding when I taught myself to make video games at the age of 9. I have a passion for general problem solving, leadership, and anything related to education! I have most of my code locally backed up, in private repos, on Replit, or on Pastebin, so forgive me if my Github looks a little sparse.
+I am a software engineer and game development hobbyist with a degree in Computer Science from UCLA. I have worked as a Full-Stack Web Developer for 3 years, and first learned coding when I taught myself to make video games at the age of 9. I have a passion for general problem solving, leadership, and anything related to education! I have most of my code locally backed up, in private repos, on Replit, or on Pastebin, so forgive me if my Github looks a little sparse.
 
 >[!NOTE]
 >Hover over the images to read a short description, and click to visit if they have a link
