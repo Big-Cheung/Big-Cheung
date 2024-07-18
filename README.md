@@ -30,7 +30,7 @@ I am a software engineer and game development hobbyist with a degree in Computer
 <details>
   <summary><h3>High School</h2></summary>
   My high school projects were mainly projects completed for a game development course at Harvard Summer School and my senior project.
-  <img src="love_QiTaK8V0UC.gif" title="Wizards of GD50, Harvard Summer School 2018" />
+  <img src="love_QiTaK8V0UC.gif" width=600 align="center" title="Wizards of GD50, Harvard Summer School 2018" />
 </details>
 
 <details>
