@@ -1,5 +1,5 @@
 # Hi, I am Evan (Big) Cheung 🐤
-I am a software engineer and game development hobbyist with a degree in Computer Science from UCLA. I have worked as a Full-Stack Web Developer for 3 years, and first learned coding when I taught myself to make video games at the age of 9. I have a passion for general problem solving, leadership, and anything related to education! I have most of my code locally backed up, in private repos, on Replit, or on Pastebin, so forgive me if my Github looks a little sparse.
+I am a software engineer and game development hobbyist with a degree in Computer Science from UCLA. My real talent is in systems engineering, and I work with software as a means to make systems. I first learned coding when I taught myself to make video games at the age of 9. I have a passion for general problem solving, leadership, and anything related to education! I have most of my code locally backed up, in private repos, on Replit, or on Pastebin, so forgive me if my Github looks a little sparse.
 
 >[!NOTE]
 >Hover over the images to read a short description, and click to visit if they have a link
@@ -30,7 +30,9 @@ I am a software engineer and game development hobbyist with a degree in Computer
 <details>
   <summary><h3>High School</h2></summary>
   My high school projects were mainly projects completed for a game development course at Harvard Summer School and my senior project.
-  <img src="love_QiTaK8V0UC.gif" width=600 align="center" title="Wizards of GD50, Harvard Summer School 2018" />
+  <div align="center">
+    <img src="love_QiTaK8V0UC.gif" width=600 align="center" title="Wizards of GD50, Harvard Summer School (2018)" />
+  </div>
 </details>
 
 <details>
